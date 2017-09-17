@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+ 
+<html lang="en"
+<html>
+	<head>
+		<title>Личная страница Ким Максима</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Личная страница для КИЛИ">
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+	<body>
+		<nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+			<div class="container"> 
+				<div class="navbar-header"> 
+					<a href="http://meatspin.fr" class="navbar-brand">Не переходи по этой ссылке, ни в коем случае!</a> 
+				</div> 
+			</div>
+		</nav>
+		<header style=" padding-top:70px; "> 
+			<div class="container"> 
+				<div class="row">
+					<div class="col-md-4">
+						<br/><br/>
+						<h1>Ким Максим</h1>
+						<hr>
+						<p><i>Самый большой любитель семинаров по КИЛИ</i></p> 
+	                </div>
+					<div class="col-md-4">
+        	            <img src="https://pp.userapi.com/c840420/v840420974/6ce2/wBm8OxzYCQY.jpg" title="Фото на кортанах"  style="height:320px; width:480px; margin:20px 20px 40px 20px; " >
+					</div>
+	            </div>
+			</div>
+		</header>
+		<section id="portfolio">
+			<div class="container">
+				<div class="col-md-3">
+					<article>
+						<h3>Место учебы</h2>
+						<p>Национальный Исследовательский Университет <br />
+						"Высшая Школа Экономики"</p>
+					</article>
+					<article>
+						<h3>Школа</h2>
+						<p>Школа улиц</p>
+					</article>
+				</div>
+				<div class="col-md-6">
+					<article>
+						<h3>Детка, позвони мне</h2>
+						<p>8  <br />
+						9 <br />
+						6 <br />
+						7 <br />
+						0 <br />
+						5 <br />
+						5 <br />
+						3 <br />
+						3 <br />
+						3 <br />
+						8 <br />
+						<i>Anytime, baby</i>
+						</p>
+					</article>
+				</div>
+			</div>
+		</section>
+		<footer class="bs-docs-footer"> 
+			<div class="container"> 
+				<p style="text-align:right; ">&copy; Максим, 2017</p> 
+			</div>
+		</footer>
+	</body>
+</html>
